@@ -20,13 +20,13 @@ Camembert Pierrot lidera com 1577 unidades vendidas.
 63 clientes atendem esse critério, com destaque para BERGS (18 pedidos).
 
 3. Qual o faturamento total por categoria de produto?
-Beverages lidera com R$286.526,95, seguida por Dairy Products.
+Beverages lidera com US$ 286,526.95, seguida por Dairy Products.
 
 4. Qual funcionário vendeu mais no total?
-Margaret Peacock lidera com R$250.187,45 em vendas.
+Margaret Peacock lidera com US$ 250,187.45 em vendas.
 
 5. Qual o ticket médio por país do cliente?
-Áustria tem o maior ticket médio (R$3.487,42, com 40 pedidos — amostra
+Áustria tem o maior ticket médio (US$ 3,487.42, com 40 pedidos — amostra
 consistente), seguida por Ireland.
 
 Estrutura
